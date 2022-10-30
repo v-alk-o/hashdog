@@ -42,7 +42,7 @@ Generate hashes from user input : <br> `./hashdog -m generate -d sha256`
 
 ![alt text](./doc/img/hashdog_usage_2.png)
 
-Generate hashes from dictionnary : <br> `./hashdog -m generate -d sha256 -f dictionnary/top15.txt`
+Generate hashes from dictionnary : <br> `./hashdog -m generate -d md5 -f dictionnary/top15.txt`
 
 ![alt text](./doc/img/hashdog_usage_3.png)
 
